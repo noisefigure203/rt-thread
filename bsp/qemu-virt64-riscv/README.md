@@ -121,7 +121,7 @@ Save and exit after modification.
 If you have compiled before, you can clean it up:
 
 ```shell
-$ scons --clean
+$ scons -c
 ```
 
 Or compile directly:
