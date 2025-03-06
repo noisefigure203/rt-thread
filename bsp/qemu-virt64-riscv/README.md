@@ -65,7 +65,7 @@ The specific toolchain used is consistent with the official RT-Thread. For the s
         echo "RTT_CC_PREFIX=riscv64-unknown-linux-musl-" >> $GITHUB_ENV
 ```
 
-<span style="color: #FF5733;">Among them</span>, <font color=red>`riscv64-unknown-elf-gcc`</font> is used to build the RT-Thread Standard version, and **`riscv64-unknown-linux-musl-gcc`** is used to build the RT-Thread Smart version. Download them to your local computer according to the links shown above and decompress them.
+<code style="color : name_color">text</code>Among them, <font color=red>`riscv64-unknown-elf-gcc`</font> is used to build the RT-Thread Standard version, and **`riscv64-unknown-linux-musl-gcc`** is used to build the RT-Thread Smart version. Download them to your local computer according to the links shown above and decompress them.
 
 ## 2.2. Setting RT-Thread toolchain environment variables
 
